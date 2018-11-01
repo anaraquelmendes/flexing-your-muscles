@@ -21,10 +21,9 @@ img {
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 1.5rem 0;
-  align-item: center;
+  align-items: center;
   background-color: #8bc9d9;
   border-top: : 3px solid #005e76;
-
   color: #005e76;
 }
 
@@ -47,6 +46,7 @@ img {
 
 .links {
   padding: 0 1rem;
+  display: flex;
 }
 
 .social {
